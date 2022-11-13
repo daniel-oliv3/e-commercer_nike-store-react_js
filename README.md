@@ -12,6 +12,9 @@ React.js, Node.js, Tailwind CSS, JavaScript.
 **React.js**
 - Site: https://pt-br.reactjs.org/
 
+**Vite.js**
+- Site: https://vitejs.dev/
+
 
 ### Ferramentas do programador.
 
@@ -19,6 +22,13 @@ React.js, Node.js, Tailwind CSS, JavaScript.
 - Site: https://code.visualstudio.com/download
 
 
+
+**Criação do projeto**
+- Terminal.
+```
+npm create vite@latest
+```
+- Nome do projeto: > my-app
 
 **Roda o projeto**
 - Terminal.
