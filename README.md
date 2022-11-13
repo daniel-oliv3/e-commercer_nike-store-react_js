@@ -30,10 +30,27 @@ npm create vite@latest
 ```
 - Nome do projeto: > my-app
 
+**NPM**
+- Instalar o NPM no projeto (node_modules)
+```
+npm install
+```
+
 **Roda o projeto**
 - Terminal.
 ```
 npm run dev
+```
+
+**Tailwind CSS**
+- Instalar o Tailwindo CSS no projeto
+- Site: https://tailwindcss.com/docs/guides/vite
+```
+npm install -D tailwindcss postcss autoprefixer
+```
+- Criar `postcss.config.cjs` e `tailwind.config.cjs`
+```
+npx tailwindcss init -p
 ```
 
 
